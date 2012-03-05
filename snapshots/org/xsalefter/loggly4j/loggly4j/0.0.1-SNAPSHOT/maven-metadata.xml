@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.xsalefter.loggly4j</groupId>
+  <artifactId>loggly4j</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120305.215129</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20120305215129</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20120305.215129-3</value>
+        <updated>20120305215129</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
